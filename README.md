@@ -1,1 +1,1 @@
-This contains all four projects of web development intershof Systemtron.
+This contains all four projects of web development intership Systemtron.
